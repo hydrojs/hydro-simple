@@ -8,6 +8,12 @@
     "type": "git",
     "url": "https://github.com/hydrojs/hydro-simple"
   },
+  "peerDependencies": {
+    "hydro": "0.x"
+  },
   "author": "Veselin Todorov <hi@vesln.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hydro-formatter": "~1.0.0"
+  }
 }
