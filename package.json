@@ -1,0 +1,13 @@
+{
+  "name": "hydro-simple",
+  "version": "1.0.0",
+  "description": "Simple formatter for hydro",
+  "main": "index.js",
+  "homepage": "https://github.com/hydrojs/hydro-simple",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydrojs/hydro-simple"
+  },
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "license": "MIT"
+}
