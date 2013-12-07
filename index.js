@@ -15,13 +15,12 @@ var Simple = Formatter.extend();
 /**
  * After all tests.
  *
- * @param {Result} test result
  * @api public
  */
 
-Simple.prototype.afterAll = function(result) {
-  this.displayResult(result);
-  this.displayFailed(result);
+Simple.prototype.afterAll = function() {
+  this.displayResult();
+  this.displayFailed();
 };
 
 /**
