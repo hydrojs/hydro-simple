@@ -1,6 +1,6 @@
 {
   "name": "hydro-simple",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple formatter for hydro",
   "main": "index.js",
   "homepage": "https://github.com/hydrojs/hydro-simple",
@@ -14,6 +14,6 @@
   "author": "Veselin Todorov <hi@vesln.com>",
   "license": "MIT",
   "dependencies": {
-    "hydro-formatter": "~1.0.0"
+    "hydro-formatter": "~2.0.0"
   }
 }
