@@ -14,6 +14,6 @@
   "author": "Veselin Todorov <hi@vesln.com>",
   "license": "MIT",
   "dependencies": {
-    "hydro-formatter": "~2.0.0"
+    "hydro-formatter": "*"
   }
 }
